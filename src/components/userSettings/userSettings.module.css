@@ -17,8 +17,8 @@
  .profileBox{
     display: flex;
     justify-content: flex-end;
-    flex-direction: column; 
-    align-items: flex-start;
+    flex-direction: column;
+    
  }
 
 .fileBox{
