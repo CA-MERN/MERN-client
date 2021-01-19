@@ -16,16 +16,16 @@
 
  .profileBox{
     display: flex;
-    justify-content: flex-end;
+    margin-left: auto;
     flex-direction: column;
-    
+    text-align: right;
  }
 
 .fileBox{
     display: flex;
-    justify-content: flex-end;
     padding-top: 20px;
     flex-direction: column;
+    margin-left: auto;
  }
 
 .profileBox img{
